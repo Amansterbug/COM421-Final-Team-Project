@@ -48,10 +48,10 @@
             font-size: 48px;
             color: #0077ba;
             margin: 0 auto;
-			
+			text-align: center;
         }
 		h3 {
-            font-size: 36px;
+            font-size: 30px;
             color: #0077b6;
             margin: 0;
 			
@@ -74,6 +74,10 @@
             line-height: 1.5;
 			margin: auto;
             width: 90%;
+        }
+        img {
+            border: 1px solid #ddd;
+            border-radius: 5px;
         }
 		aside {
 		  width: 40%;
