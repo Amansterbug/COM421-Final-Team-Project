@@ -54,6 +54,7 @@
             font-size: 30px;
             color: #0077b6;
             margin: 0;
+            text-align: center;
 			
         }
 		h4 {
@@ -76,8 +77,18 @@
             width: 90%;
         }
         img {
-            border: 1px solid #ddd;
+            border: 3px solid #0077b6;
             border-radius: 5px;
+            margin-top: 30px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            width: 80%;
+        }
+        figcaption {
+            text-align: center;
+            text-decoration: underline;
+            font-size: large;
         }
 		aside {
 		  width: 40%;
